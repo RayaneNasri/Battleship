@@ -28,10 +28,6 @@ Le code est organisé en quatre fichiers principaux :
 
 4. **_main.py_** : Ce fichier permet de tester les fonctionnalités clés du projet.
 
-## **Documentation du code**
-
-La documentation du code est disponible dans le répertoire `doc/html`, accessible en lançant le fichier _index.html_.
-
 ## **Contact**
 
 Pour toute question ou suggestion, vous pouvez me contacter à rayane.nasri@etu.sorbonne-univeriste.fr.
